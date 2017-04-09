@@ -1,0 +1,126 @@
+topics[0]
+Out[11]: 
+(19,
+ '0.026*"files" + 0.016*"player" + 0.014*"music" + 0.010*"play" + 0.010*"file" + 0.007*"mp3" + 0.007*"album" + 0.006*"software" + 0.006*"one" + 0.006*"songs" + 0.006*"want" + 0.006*"folders" + 0.006*"format" + 0.006*"get" + 0.005*"transfer" + 0.005*"device" + 0.005*"would" + 0.005*"like" + 0.005*"folder" + 0.005*"use"')
+
+topics[1]
+Out[12]: 
+(9,
+ '0.047*"ipod" + 0.012*"great" + 0.011*"better" + 0.011*"player" + 0.011*"screen" + 0.009*"video" + 0.009*"like" + 0.009*"software" + 0.008*"music" + 0.008*"much" + 0.008*"get" + 0.007*"use" + 0.006*"itunes" + 0.006*"nano" + 0.006*"features" + 0.006*"also" + 0.005*"mp3" + 0.005*"one" + 0.005*"really" + 0.005*"quality"')
+
+topics[2]
+Out[13]: 
+(12,
+ '0.028*"player" + 0.020*"use" + 0.017*"great" + 0.013*"card" + 0.013*"mp3" + 0.013*"books" + 0.011*"sd" + 0.010*"audio" + 0.009*"easy" + 0.008*"one" + 0.008*"memory" + 0.007*"little" + 0.007*"good" + 0.007*"battery" + 0.007*"book" + 0.006*"would" + 0.006*"listen" + 0.006*"love" + 0.006*"really" + 0.005*"problem"')
+
+topics[3]
+Out[14]: Customer Service
+(23,
+ '0.015*"player" + 0.014*"support" + 0.012*"one" + 0.012*"back" + 0.010*"customer" + 0.010*"would" + 0.009*"service" + 0.008*"get" + 0.008*"time" + 0.008*"device" + 0.006*"even" + 0.006*"another" + 0.006*"first" + 0.006*"number" + 0.006*"call" + 0.005*"phone" + 0.005*"tech" + 0.005*"buy" + 0.005*"help" + 0.005*"called"')
+
+topics[4]
+Out[15]: Delivery/Shipping
+(14,
+ '0.015*"one" + 0.010*"christmas" + 0.009*"sansa" + 0.009*"amazon" + 0.009*"m240" + 0.007*"son" + 0.007*"would" + 0.007*"purchased" + 0.007*"got" + 0.006*"de" + 0.006*"weeks" + 0.006*"froze" + 0.006*"two" + 0.006*"get" + 0.006*"yr" + 0.006*"received" + 0.006*"la" + 0.005*"error" + 0.005*"que" + 0.005*"es"')
+
+topics[5]
+Out[16]: Compatibility with OS
+(2,
+ '0.023*"player" + 0.012*"device" + 0.010*"good" + 0.010*"use" + 0.008*"media" + 0.007*"song" + 0.007*"would" + 0.007*"windows" + 0.007*"songs" + 0.006*"album" + 0.006*"one" + 0.006*"software" + 0.006*"music" + 0.006*"like" + 0.006*"button" + 0.006*"screen" + 0.005*"ca" + 0.005*"play" + 0.005*"computer" + 0.005*"battery"')
+
+topics[6]
+Out[17]: Storage
+(22,
+ '0.039*"zen" + 0.032*"player" + 0.015*"mp3" + 0.012*"ipod" + 0.012*"battery" + 0.012*"one" + 0.008*"great" + 0.008*"like" + 0.008*"gb" + 0.007*"micro" + 0.006*"get" + 0.006*"buy" + 0.006*"players" + 0.006*"would" + 0.005*"problems" + 0.005*"life" + 0.005*"reviews" + 0.005*"bought" + 0.005*"really" + 0.005*"also"')
+
+topics[7]
+Out[18]: Sound quality
+(8,
+ '0.013*"cznp" + 0.012*"zen" + 0.010*"player" + 0.009*"ipod" + 0.008*"use" + 0.007*"sound" + 0.006*"micro" + 0.006*"music" + 0.006*"also" + 0.006*"mp3" + 0.005*"mini" + 0.005*"format" + 0.005*"quality" + 0.005*"disc" + 0.005*"one" + 0.004*"h320" + 0.004*"much" + 0.004*"wma" + 0.004*"files" + 0.004*"however"')
+
+topics[8]
+Out[19]: Network features
+(4,
+ '0.016*"unit" + 0.009*"amazon" + 0.009*"product" + 0.008*"browser" + 0.008*"604" + 0.008*"one" + 0.007*"item" + 0.007*"company" + 0.006*"device" + 0.006*"would" + 0.006*"wifi" + 0.005*"purchased" + 0.005*"web" + 0.005*"player" + 0.004*"ordered" + 0.004*"back" + 0.004*"condition" + 0.004*"experience" + 0.004*"units" + 0.004*"k3"')
+
+topics[9]
+Out[20]: 
+(17,
+ '0.015*"unit" + 0.008*"music" + 0.008*"get" + 0.008*"one" + 0.007*"mp3" + 0.007*"player" + 0.007*"record" + 0.007*"good" + 0.006*"back" + 0.006*"could" + 0.005*"like" + 0.005*"use" + 0.005*"would" + 0.005*"even" + 0.005*"device" + 0.005*"quality" + 0.004*"time" + 0.004*"also" + 0.004*"well" + 0.004*"need"')
+
+topics[10]
+Out[21]: OS Compatibility/Format
+(0,
+ '0.026*"mac" + 0.013*"sansa" + 0.011*"great" + 0.010*"player" + 0.009*"ipod" + 0.008*"music" + 0.008*"mp3" + 0.008*"microsoft" + 0.007*"vista" + 0.006*"microsd" + 0.005*"ogg" + 0.005*"like" + 0.005*"e260" + 0.005*"one" + 0.004*"players" + 0.004*"system" + 0.004*"even" + 0.004*"pc" + 0.004*"good" + 0.003*"buy"')
+
+topics[11]
+Out[22]: 
+(24,
+ '0.028*"product" + 0.015*"one" + 0.014*"buy" + 0.014*"player" + 0.014*"get" + 0.013*"mp3" + 0.011*"bought" + 0.009*"good" + 0.008*"would" + 0.008*"money" + 0.007*"thing" + 0.007*"got" + 0.007*"first" + 0.007*"p" + 0.006*"piece" + 0.006*"could" + 0.006*"new" + 0.006*"even" + 0.005*"junk" + 0.005*"time"')
+
+topics[12]
+Out[23]: Product features/ Price worth
+(20,
+ '0.047*"player" + 0.039*"mp3" + 0.036*"great" + 0.026*"easy" + 0.023*"use" + 0.020*"good" + 0.015*"sound" + 0.015*"product" + 0.014*"sansa" + 0.013*"quality" + 0.011*"radio" + 0.011*"fm" + 0.010*"price" + 0.010*"music" + 0.008*"excellent" + 0.007*"recommend" + 0.007*"nice" + 0.007*"also" + 0.007*"love" + 0.007*"features"')
+
+topics[13]
+Out[24]: 
+(11,
+ '0.015*"player" + 0.012*"software" + 0.011*"device" + 0.010*"use" + 0.010*"music" + 0.010*"mp3" + 0.010*"usb" + 0.009*"files" + 0.009*"like" + 0.008*"unit" + 0.007*"file" + 0.006*"want" + 0.006*"also" + 0.006*"media" + 0.006*"get" + 0.006*"audio" + 0.006*"good" + 0.006*"computer" + 0.006*"windows" + 0.005*"pc"')
+
+topics[14]
+Out[25]: 
+(10,
+ '0.054*"stone" + 0.010*"t9" + 0.007*"password" + 0.005*"one" + 0.005*"404" + 0.004*"player" + 0.004*"tossed" + 0.004*"clix2" + 0.004*"cold" + 0.004*"blues" + 0.004*"pmc" + 0.003*"around" + 0.003*"backwards" + 0.003*"cali" + 0.003*"even" + 0.003*"solution" + 0.003*"generations" + 0.003*"priced" + 0.003*"1gb" + 0.003*"c"')
+
+topics[15]
+Out[26]: Customer Service
+(7,
+ '0.019*"months" + 0.016*"great" + 0.015*"warranty" + 0.010*"working" + 0.010*"product" + 0.009*"player" + 0.009*"customer" + 0.009*"service" + 0.009*"one" + 0.009*"3" + 0.008*"battery" + 0.008*"worked" + 0.007*"back" + 0.007*"get" + 0.007*"would" + 0.007*"stopped" + 0.007*"year" + 0.007*"got" + 0.006*"bought" + 0.006*"day"')
+
+topics[16]
+Out[27]: 
+(13,
+ '0.019*"player" + 0.014*"would" + 0.013*"one" + 0.013*"mp3" + 0.011*"thing" + 0.010*"get" + 0.009*"music" + 0.009*"software" + 0.008*"good" + 0.008*"got" + 0.008*"great" + 0.008*"really" + 0.008*"songs" + 0.007*"like" + 0.006*"time" + 0.006*"little" + 0.006*"work" + 0.005*"buy" + 0.005*"first" + 0.005*"use"')
+
+topics[17]
+Out[28]: 
+(3,
+ '0.021*"great" + 0.016*"player" + 0.016*"one" + 0.014*"good" + 0.013*"sound" + 0.012*"like" + 0.012*"mp3" + 0.011*"really" + 0.011*"screen" + 0.011*"music" + 0.011*"love" + 0.010*"easy" + 0.009*"use" + 0.008*"quality" + 0.008*"songs" + 0.008*"bought" + 0.007*"price" + 0.007*"would" + 0.007*"battery" + 0.007*"got"')
+
+
+
+topics[18]
+Out[29]: Portable MP3 
+(18,
+ '0.011*"one" + 0.010*"600" + 0.009*"product" + 0.008*"av700" + 0.006*"like" + 0.006*"pmp" + 0.006*"player" + 0.005*"screen" + 0.005*"plugins" + 0.005*"get" + 0.004*"amp" + 0.004*"also" + 0.004*"cowon" + 0.004*"video" + 0.004*"plugin" + 0.004*"ii" + 0.004*"unit" + 0.004*"30g" + 0.004*"would" + 0.004*"still"')
+
+topics[19]
+Out[30]: 
+(21,
+ '0.022*"player" + 0.016*"p" + 0.015*"battery" + 0.014*"br" + 0.012*"mp3" + 0.010*"good" + 0.010*"use" + 0.010*"one" + 0.008*"small" + 0.008*"like" + 0.007*"muvo" + 0.007*"clip" + 0.006*"fm" + 0.006*"sound" + 0.006*"case" + 0.006*"shuffle" + 0.006*"music" + 0.006*"little" + 0.006*"great" + 0.006*"ipod"')
+
+topics[20]
+Out[31]: Battery life
+(15,
+ '0.016*"battery" + 0.012*"usb" + 0.009*"player" + 0.008*"firmware" + 0.008*"unit" + 0.007*"charge" + 0.007*"life" + 0.007*"device" + 0.006*"use" + 0.006*"hours" + 0.005*"charger" + 0.005*"cable" + 0.005*"even" + 0.005*"good" + 0.005*"volume" + 0.005*"support" + 0.005*"also" + 0.005*"like" + 0.004*"sound" + 0.004*"software"')
+
+topics[21]
+Out[32]: 
+(16,
+ '0.037*"video" + 0.016*"device" + 0.016*"movies" + 0.015*"zen" + 0.013*"vision" + 0.013*"screen" + 0.012*"videos" + 0.011*"tv" + 0.009*"dvd" + 0.008*"watch" + 0.007*"player" + 0.007*"get" + 0.006*"time" + 0.006*"would" + 0.005*"ipod" + 0.005*"support" + 0.005*"watching" + 0.005*"movie" + 0.005*"even" + 0.004*"battery"')
+
+topics[22]
+Out[33]: 
+(6,
+ '0.013*"music" + 0.012*"sound" + 0.012*"player" + 0.011*"use" + 0.011*"quality" + 0.009*"mp3" + 0.008*"little" + 0.007*"great" + 0.007*"get" + 0.006*"605" + 0.006*"easy" + 0.006*"good" + 0.005*"also" + 0.005*"could" + 0.005*"one" + 0.004*"well" + 0.004*"like" + 0.004*"screen" + 0.004*"first" + 0.004*"songs"')
+
+topics[23]
+Out[34]: 
+(5,
+ '0.046*"player" + 0.019*"music" + 0.014*"software" + 0.014*"songs" + 0.011*"mp3" + 0.010*"media" + 0.010*"computer" + 0.009*"use" + 0.009*"like" + 0.009*"windows" + 0.007*"would" + 0.007*"one" + 0.007*"great" + 0.007*"also" + 0.006*"really" + 0.005*"want" + 0.005*"sound" + 0.005*"first" + 0.005*"little" + 0.005*"using"')
+
+topics[22]
+Out[35]: 
+(6,
+ '0.013*"music" + 0.012*"sound" + 0.012*"player" + 0.011*"use" + 0.011*"quality" + 0.009*"mp3" + 0.008*"little" + 0.007*"great" + 0.007*"get" + 0.006*"605" + 0.006*"easy" + 0.006*"good" + 0.005*"also" + 0.005*"could" + 0.005*"one" + 0.004*"well" + 0.004*"like" + 0.004*"screen" + 0.004*"first" + 0.004*"songs"')
