@@ -1,0 +1,35 @@
+>>> topics[0]: Battery life
+(0, '0.050*"unit" + 0.022*"reset" + 0.019*"usb" + 0.018*"charger" + 0.011*"button" + 0.010*"pc" + 0.009*"charge" + 0.009*"player" + 0.009*"ac" + 0.008*"battery" + 0.008*"wall" + 0.008*"hard" + 0.008*"charging" + 0.008*"cable" + 0.007*"hours" + 0.007*"power" + 0.007*"port" + 0.006*"drive" + 0.006*"mp3" + 0.006*"adapter"')
+
+>>> topics[1]: Overall quality
+(1, '0.030*"ipod" + 0.015*"use" + 0.014*"great" + 0.013*"music" + 0.012*"player" + 0.011*"easy" + 0.009*"like" + 0.009*"better" + 0.009*"software" + 0.008*"much" + 0.008*"love" + 0.008*"really" + 0.008*"songs" + 0.008*"good" + 0.006*"screen" + 0.006*"itunes" + 0.005*"sound" + 0.005*"one" + 0.005*"get" + 0.005*"touch"')
+
+>>> topics[3]: Price worth
+(3, '0.017*"one" + 0.016*"get" + 0.013*"ipod" + 0.010*"would" + 0.009*"thing" + 0.008*"like" + 0.007*"case" + 0.007*"songs" + 0.007*"great" + 0.006*"player" + 0.006*"use" + 0.006*"buy" + 0.006*"even" + 0.006*"want" + 0.005*"say" + 0.005*"money" + 0.005*"mp3" + 0.005*"time" + 0.005*"much" + 0.005*"battery"')
+
+>>> topics[11]: Overall quality
+(11, '0.038*"player" + 0.020*"sound" + 0.020*"good" + 0.019*"quality" + 0.013*"mp3" + 0.012*"music" + 0.010*"use" + 0.009*"great" + 0.009*"excellent" + 0.007*"price" + 0.007*"easy" + 0.006*"players" + 0.005*"battery" + 0.005*"much" + 0.005*"fm" + 0.005*"also" + 0.004*"features" + 0.004*"like" + 0.004*"size" + 0.004*"small"')
+
+>>> topics[12]:Complaints
+(12, '0.025*"player" + 0.018*"battery" + 0.015*"unit" + 0.011*"p" + 0.011*"would" + 0.010*"good" + 0.008*"one" + 0.007*"mp3" + 0.007*"months" + 0.007*"use" + 0.006*"problem" + 0.006*"get" + 0.006*"sound" + 0.005*"jack" + 0.005*"quality" + 0.005*"life" + 0.005*"bought" + 0.005*"problems" + 0.005*"headphone" + 0.004*"back"')
+
+>>> topics[13]: Video features
+(13, '0.029*"video" + 0.018*"screen" + 0.013*"ipod" + 0.012*"zen" + 0.010*"great" + 0.010*"player" + 0.009*"movies" + 0.009*"videos" + 0.008*"vision" + 0.007*"tv" + 0.007*"quality" + 0.007*"music" + 0.006*"like" + 0.006*"one" + 0.006*"also" + 0.006*"use" + 0.006*"device" + 0.006*"get" + 0.006*"media" + 0.005*"watch"')
+
+>>> topics[15]: Packaging
+(15, '0.011*"player" + 0.009*"m230" + 0.007*"static" + 0.006*"delivers" + 0.006*"rights" + 0.005*"batch" + 0.005*"wma" + 0.004*"sound" + 0.004*"packaging" + 0.004*"produce" + 0.004*"mp3" + 0.004*"clip" + 0.004*"zen" + 0.004*"tear" + 0.003*"blow" + 0.003*"pouch" + 0.003*"french" + 0.003*"carbon" + 0.003*"holes" + 0.003*"sw"')
+
+>>> topics[16]: Gifting suggestion
+(16, '0.026*"player" + 0.025*"bought" + 0.022*"great" + 0.017*"christmas" + 0.015*"love" + 0.014*"one" + 0.013*"mp3" + 0.012*"daughter" + 0.012*"loves" + 0.011*"music" + 0.010*"son" + 0.010*"gift" + 0.010*"year" + 0.010*"got" + 0.010*"easy" + 0.009*"use" + 0.009*"old" + 0.008*"good" + 0.007*"wife" + 0.007*"product"')
+
+>>> topics[17]: Positive Feedback
+(17, '0.042*"player" + 0.040*"mp3" + 0.040*"great" + 0.028*"use" + 0.024*"easy" + 0.014*"price" + 0.013*"good" + 0.013*"sound" + 0.009*"product" + 0.009*"battery" + 0.008*"buy" + 0.008*"best" + 0.008*"songs" + 0.008*"music" + 0.008*"quality" + 0.008*"want" + 0.007*"fm" + 0.007*"ipod" + 0.007*"need" + 0.007*"like"')
+
+>>> topics[18]: Complaints
+(18, '0.022*"one" + 0.015*"months" + 0.013*"working" + 0.012*"player" + 0.011*"bought" + 0.011*"stopped" + 0.011*"buy" + 0.010*"junk" + 0.010*"mp3" + 0.009*"turn" + 0.008*"3" + 0.008*"thing" + 0.008*"piece" + 0.008*"back" + 0.007*"got" + 0.007*"even" + 0.007*"first" + 0.006*"died" + 0.006*"get" + 0.006*"2"')
+
+>>> topics[20]: Subscription model
+(20, '0.031*"device" + 0.026*"music" + 0.021*"player" + 0.012*"work" + 0.012*"use" + 0.012*"usb" + 0.011*"great" + 0.010*"computer" + 0.010*"napster" + 0.009*"yahoo" + 0.009*"works" + 0.009*"product" + 0.008*"rhapsody" + 0.008*"software" + 0.007*"would" + 0.007*"windows" + 0.006*"connect" + 0.006*"get" + 0.006*"subscription" + 0.006*"download"')
+>>> topics[22]: Customer Service
+(22, '0.016*"player" + 0.013*"product" + 0.013*"would" + 0.012*"one" + 0.012*"support" + 0.009*"problem" + 0.008*"get" + 0.008*"back" + 0.008*"customer" + 0.007*"time" + 0.007*"service" + 0.007*"work" + 0.007*"new" + 0.006*"first" + 0.006*"buy" + 0.006*"got" + 0.006*"amazon" + 0.006*"could" + 0.006*"problems" + 0.005*"even"')
+
